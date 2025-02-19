@@ -13,6 +13,5 @@ Recursion
 7.RETURN POWERSET || subset -> leetcode 78
 8. subset II -> LEETCODE 90
 9.permutations of array/strings leetcode 46. not understood
-10.N queens -> leetcode 51 -> not understood {similar ques N Knights}
-NOTE : ASSUMING OUR RECURSION IS ABLE TO FIND OUT F(BIG) THEN IT WILL DEFINATELY FIND F(SMALL).
+
 */
