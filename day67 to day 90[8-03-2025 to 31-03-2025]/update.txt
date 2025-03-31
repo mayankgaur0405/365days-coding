@@ -1,0 +1,14 @@
+Day 67-90 ✅  
+
+- Despite health challenges, stayed consistent with DSA problem-solving and participated in multiple LeetCode contests.  
+- Progressed in Java Full Stack Web Development:  
+  - Learned Java Swing for GUI applications.  
+  - Mastered JDBC for database connectivity.  
+  - Worked extensively with MySQL for database management.  
+  - Currently learning Servlet and JSP for building dynamic web applications.  
+- DSA Practice Focus:  
+  - Solved problems on Trees and Linked Lists.  
+  - Strengthened understanding of Strings, Queues, and Stacks.  
+- Maintained a steady learning and coding streak.  
+
+📌 Code updates on GitHub: [365days-coding](https://github.com/mayankgaur0405/365days-coding.git)
